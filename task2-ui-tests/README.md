@@ -5,7 +5,7 @@ This repository contains the solution to the N26 Take-Home QA Challenge. It incl
 
 - Exploratory testing documentation (Task 1)
 - Automated UI test suite using **Playwright** and **TypeScript** (Task 2)
-- Optionally structured to allow REST API testing (Task 3, if implemented)
+
 
 ---
 
